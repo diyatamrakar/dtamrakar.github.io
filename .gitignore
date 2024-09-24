@@ -1,0 +1,9 @@
+# Ignore IDE-specific files
+.vscode/
+*.log
+
+git add .gitignore
+git commit -m "Added .gitignore file"
+
+git push origin main
+
