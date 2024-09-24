@@ -10,5 +10,9 @@
 <body>
    <!-- Display the Triangle SVG -->
    <img src="./resources/triangle.svg" alt="Triangle">
+   <!-- Display the rectangle SVG -->
+   <img src="./resources/rectangle.svg" alt="rectangle">
+   <!-- Display the circle SVG -->
+   <img src="./resources/circle.svg" alt="circle">
 </body>
 </html>
