@@ -12,7 +12,7 @@
 
 <body style="background-color: aqua;">
     <p style="width: 40%;">
-        Started off with creating a the index page which creates the link which has the banner with a triangle on top of a circle like a hat and rotates around the circle. It also has hyperlink formats but it doesn't lead anywhere. &#128512; 
+        Started off with creating a the index page which has the banner with welcome rewritten in the center. Sun moveing in a semi circle and arrows around welcome pointing up. It also has hyperlink formats but it doesn't lead anywhere. &#128512; 
         https://github.com/diyatamrakar/dtamrakar.github.io.git 
         <em>~ Diya Tamrakar  </em>
         <hr>
