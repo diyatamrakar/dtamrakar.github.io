@@ -1,34 +1,19 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Page Two</title>
-   <link rel="icon" href="../resources/favicon.svg" type="image/svg+xml">
-
-   <!-- Import font (Example: Spicy Rice) -->
-   <link rel="preconnect" href="https://fonts.googleapis.com">
-   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-   <link href="https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap" rel="stylesheet">
-
-   <link rel="stylesheet" href="../styles.css">
+   <title>Assignment 2</title>
+   <link rel="icon" href="./resources/favicon.svg" type="image/svg+xml">
+   <link rel="stylesheet" href="styles.css">
 </head>
-<body style="font-family: 'Spicy Rice', cursive;">
-   <h1>Welcome to Page Two</h1>
-   <p>This page is part of your assignment!</p>
+<body>
+   <!-- Display the Triangle SVG -->
    <img src="./resources/triangle.svg" alt="Triangle">
+   <!-- Display the rectangle SVG -->
    <img src="./resources/rectangle.svg" alt="rectangle">
-   <img src="./resources/circle.svg" alt="circle">
-   
-   <!-- Navigation -->
-   <nav class="menu">
-     <ul>
-       <li><a href="../index.html">Home</a></li>
-       <li><a href="./two.html">Page Two</a></li>
-       <li><a href="./three.html">Page Three</a></li>
-     </ul>
-   </nav>
+   <!-- Display the sun SVG -->
+   <img src="./resources/sun.svg" alt="sun">
 </body>
 </html>
 
